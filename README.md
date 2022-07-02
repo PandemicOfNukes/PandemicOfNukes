@@ -12,6 +12,12 @@ This GitHub is a showcase of some of my projects (for example: Python Programs, 
 
 I may not be the best but I hope you like what you find here anyway.
 
+Upcoming Projects: 
+
+100 Levels Of Pain: A roguelike made in Godot Game Engine
+
+Liked My Avatar? It was a friend of mine who made it! Check him out on Twitter (Comissions Open!): https://twitter.com/Souly412
+
 <!---
 PandemicOfNukes/PandemicOfNukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
